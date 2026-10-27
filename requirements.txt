@@ -1,5 +1,0 @@
-fastapi
-python-multipart
-requests
-pymupdf
-python-docx
