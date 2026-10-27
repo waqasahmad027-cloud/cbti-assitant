@@ -1,0 +1,4 @@
+tests/
+*.md
+data/resource_repository.xlsx
+catalogue.py
